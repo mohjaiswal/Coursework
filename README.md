@@ -22,6 +22,7 @@ These courses allowed me to engage in complex projects, showcasing my ability to
 
 ### Major Projects:
 
+- **Loan Applicant gender discrimination probability:** Employed Logit/Probit models to examine gender discrimnation in loan applicants within the US.
 - **Panel Data Analysis of Employment Trends:** Employed panel data models to examine factors influencing employment rates across Canadian provinces over time.
 - **Time Series Forecasting of Stock Market Returns:** Utilized time series models to forecast stock market returns, incorporating volatility modeling to improve prediction accuracy.
 
