@@ -1,4 +1,5 @@
 # Coursework Portfolio
+![Header Image](https://github.com/mohjaiswal/Coursework/blob/a97e6fffe539a4cd0b02b51152fd88eefe165e9a/courseworkheader.jpg)
 
 ## Moh Jaiswal's Coursework and Projects at Ryerson University
 
