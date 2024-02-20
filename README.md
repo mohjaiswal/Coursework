@@ -51,20 +51,6 @@ Focused on modern macroeconomic theory, this course developed my analytical skil
 
 ---
 
-### QMS442: Multiple Regression Analysis
-
-Taught me regression methodology and its applications across business functions, introducing Analysis of Variance techniques for business research.
-
-**Key Learnings and Projects:**
-- Developed a foundational understanding of multiple regression and analysis of variance.
-- Applied regression analysis to business and economic datasets.
-
-**Skills Developed:**
-- Enhanced understanding of regression methodology.
-- Ability to analyze and interpret business data through regression analysis.
-
----
-
 ### QMS703: Business Forecasting Techniques
 
 Introduced me to time series forecasting techniques, emphasizing the practical aspects of forecasting.
